@@ -109,8 +109,8 @@
 ### 🎵 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31bfu3mvxj3cm26soxrdsna3mxfa">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bfu3mvxj3cm26soxrdsna3mxfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false&bar_color=FF6B9D&bar_color_cover=true" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bfu3mvxj3cm26soxrdsna3mxfa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" />
   </a>
 </p>
 
