@@ -57,7 +57,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D3748" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=2D3748" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2D3748" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2D3748" />
 </p>
@@ -70,8 +69,8 @@
 
 <p align="center">
   <a href="https://github.com/Zhao0335">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zhao0335&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=E94D6A&text_color=C9D1D9&ring_color=FF6B9D&rank_icon=github&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao0335&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zhao0335&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=E94D6A&text_color=C9D1D9&ring_color=FF6B9D&rank_icon=github&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zhao0335&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9&langs_count=8" />
   </a>
 </p>
 
