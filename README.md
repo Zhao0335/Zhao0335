@@ -1,4 +1,3 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Zhao0335;%F0%9F%A7%A0+AI+Major+%26+PyTorch+Fan;%F0%9F%8E%B5+Code%2C+Music+%26+Art;%F0%9F%9A%80+Exploring+the+Future+of+AI" />
@@ -26,8 +25,6 @@
   </a>
 </p>
 
----
-
 ### 🧠 About Me
 
 <table align="center">
@@ -47,8 +44,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -78,8 +73,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -95,16 +88,9 @@
   </a>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Zhao0335">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhao0335&theme=redical&bg_color=0D1117&color=FF6B9D&line=E94D6A&point=C9D1D9&area=true&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 🐍 Contribution Snake
+
+> 🐍 This needs the Action to run once — go to **Actions** tab → "Generate Snake Animation" → "Run workflow"
 
 <p align="center">
   <picture>
@@ -114,8 +100,6 @@
   </picture>
 </p>
 
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -123,8 +107,6 @@
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Zhao0335&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
   </a>
 </p>
-
----
 
 ### 🎵 Now Playing
 
@@ -138,15 +120,11 @@
   <i>💡 If you have a Spotify account, replace the uid above to show what you're listening to~</i>
 </p>
 
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
