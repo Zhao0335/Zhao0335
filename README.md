@@ -90,8 +90,6 @@
 
 ### 🐍 Contribution Snake
 
-> 🐍 This needs the Action to run once — go to **Actions** tab → "Generate Snake Animation" → "Run workflow"
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhao0335/Zhao0335/output/github-contribution-grid-snake-dark.svg" />
@@ -114,10 +112,6 @@
   <a href="https://open.spotify.com/user/31bfu3mvxj3cm26soxrdsna3mxfa">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bfu3mvxj3cm26soxrdsna3mxfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false&bar_color=FF6B9D&bar_color_cover=true" />
   </a>
-</p>
-
-<p align="center">
-  <i>💡 If you have a Spotify account, replace the uid above to show what you're listening to~</i>
 </p>
 
 ### ✍️ Random Dev Quote
